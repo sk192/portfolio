@@ -1,0 +1,48 @@
+﻿					PORTFOLIO-PROJECT
+
+
+Week 9:
+
+Ever since the announcement of project I was wondering how should I represent the information like should I use different pages and navigation to these pages or should I use just single page and jumping on each section design. I wanted to create website using HTML, CSS and JavaScript as I already created two web application using React. So decided to create website only using HTML, CSS, JavaScript and bootstrap. 
+
+I first started with basic layout like added navbar, body, footer. Then I added links to navbar and navigated those links on different section of page. I struggled with navbar hamburger menu option. The button icon was not coming due to incorrect use of Icon tag. I fixed this issue after googling. Also the scripting part for button scroll up and down was difficult. With the help of MDN and bootstrap I managed to display navbar with button and links.
+
+After navbar, I started working on body sections. Added each section one after another. And navigated to each section using id attribute in <a> tag. Adding css and bootstrap effects took time. 
+
+
+
+Week 10:
+
+Added resume and contact section. Earlier though of importing resume pdf but the image wasn’t clear after trying importing PDF so ended up displaying information. Page responsiveness took time and added media query for that. Also checked the accessibility and performance of page.
+
+In the future I would like to add images of projects and with next and previous button.
+
+
+Github project repository files workflow:
+
+    • index.html – html page
+    • /images – folder contains all images used in this project
+    • script.js – javascript file 
+    • styles.css – css file
+      
+REFERENCE: 
+
+1) https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+2) https://cssreference.io/
+
+
+Github repository link:
+
+https://github.com/sk192/portfolio
+
+
+Deployed project link:
+
+https://sk192.github.io/portfolio/
+
+
+
+
+
+
